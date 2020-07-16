@@ -1,0 +1,17 @@
+ENTITY ru IS
+    PORT (
+	d0 : in std_logic  ; 
+	d1 : in std_logic  ; 
+	d2 : in std_logic  ; 
+	d3 : in std_logic  ; 
+	es : in std_logic  ; 
+	oper0 : in std_logic  ; 
+	oper1 : in std_logic  ; 
+	clk : in std_logic  ; 
+	clr : in std_logic  ; 
+	q0 : inout std_logic  ; 
+	q1 : inout std_logic  ; 
+	q2 : inout std_logic  ; 
+	q3 : inout std_logic 
+    ) ;
+END ru ;

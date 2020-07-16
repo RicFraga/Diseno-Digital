@@ -1,0 +1,26 @@
+NET "D<0>" LOC = T10 ;
+net "D<1>" loc= "T9";
+net "D<2>" loc= "V9";
+net "D<3>" loc= "M8";
+net "D<4>" loc= "N8";
+net "D<5>" loc= "U8";
+net "D<6>" loc= "V8";
+net "D<7>" loc= "T5";
+
+net "A<0>" loc= "D9";
+net "A<1>" loc= "D8";
+net "A<2>" loc="C4";
+
+net "W" loc="C9";
+net "R" loc="A8";
+
+net "O<0>" loc="U16";
+net "O<1>" loc="V16";
+net "O<2>" loc="U15";
+net "O<3>" loc="V15";
+net "O<4>" loc="M11";
+net "O<5>" loc="N11";
+net "O<6>" loc="R11";
+net "O<7>" loc="T11";
+
+net "CLK" loc="V10";

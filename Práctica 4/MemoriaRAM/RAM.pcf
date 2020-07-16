@@ -1,0 +1,29 @@
+//! **************************************************************************
+// Written by: Map O.61xd on Thu Sep 26 08:36:21 2019
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "A<0>" LOCATE = SITE "D9" LEVEL 1;
+COMP "A<1>" LOCATE = SITE "D8" LEVEL 1;
+COMP "A<2>" LOCATE = SITE "C4" LEVEL 1;
+COMP "O<0>" LOCATE = SITE "U16" LEVEL 1;
+COMP "O<1>" LOCATE = SITE "V16" LEVEL 1;
+COMP "O<2>" LOCATE = SITE "U15" LEVEL 1;
+COMP "O<3>" LOCATE = SITE "V15" LEVEL 1;
+COMP "O<4>" LOCATE = SITE "M11" LEVEL 1;
+COMP "O<5>" LOCATE = SITE "N11" LEVEL 1;
+COMP "O<6>" LOCATE = SITE "R11" LEVEL 1;
+COMP "D<0>" LOCATE = SITE "T10" LEVEL 1;
+COMP "O<7>" LOCATE = SITE "T11" LEVEL 1;
+COMP "D<1>" LOCATE = SITE "T9" LEVEL 1;
+COMP "D<2>" LOCATE = SITE "V9" LEVEL 1;
+COMP "D<3>" LOCATE = SITE "M8" LEVEL 1;
+COMP "D<4>" LOCATE = SITE "N8" LEVEL 1;
+COMP "D<5>" LOCATE = SITE "U8" LEVEL 1;
+COMP "D<6>" LOCATE = SITE "V8" LEVEL 1;
+COMP "D<7>" LOCATE = SITE "T5" LEVEL 1;
+COMP "R" LOCATE = SITE "A8" LEVEL 1;
+COMP "W" LOCATE = SITE "C9" LEVEL 1;
+COMP "CLK" LOCATE = SITE "V10" LEVEL 1;
+SCHEMATIC END;
+
